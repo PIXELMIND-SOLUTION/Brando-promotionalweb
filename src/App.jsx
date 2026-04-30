@@ -185,7 +185,7 @@ const App = () => {
 
             {/* Desktop Menu */}
             <div className="hidden md:flex items-center space-x-1">
-              {['Features', 'How It Works', 'Pricing', 'Testimonials'].map((item) => (
+              {['Features', 'How-It-Works', 'Pricing', 'Testimonials'].map((item) => (
                 <button
                   key={item}
                   onClick={() => {
