@@ -743,6 +743,7 @@ const App = () => {
                 <li>
                   <a
                     href="mailto:hello@brando.app"
+                    style={{ textDecoration: "none" }}
                     className="group flex items-center gap-3 text-red-300 hover:text-red-400 transition-all duration-300"
                   >
                     <div className="w-10 h-10 rounded-xl bg-red-500/10 border border-red-500/20 flex items-center justify-center group-hover:bg-red-500/20 transition-all">
@@ -756,6 +757,7 @@ const App = () => {
                 <li>
                   <a
                     href="tel:+15551234567"
+                    style={{ textDecoration: "none" }}
                     className="group flex items-center gap-3 text-red-300 hover:text-red-400 transition-all duration-300"
                   >
                     <div className="w-10 h-10 rounded-xl bg-red-500/10 border border-red-500/20 flex items-center justify-center group-hover:bg-red-500/20 transition-all">
@@ -769,6 +771,7 @@ const App = () => {
                 <li>
                   <a
                     href="#"
+                    style={{ textDecoration: "none" }}
                     className="group flex items-center gap-3 text-red-300 hover:text-red-400 transition-all duration-300"
                   >
                     <div className="w-10 h-10 rounded-xl bg-red-500/10 border border-red-500/20 flex items-center justify-center group-hover:bg-red-500/20 transition-all">
